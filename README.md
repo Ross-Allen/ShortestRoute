@@ -4,7 +4,7 @@ Shortest Route is a mini-program that reads in a maze and solves it in the fewes
 
 ## IMPORTANT
 
-This version of Shortest Route includes some starter-code provided by Utah State University computer science department to which I give credit. Major functionality/displayment code is my own work. 
+This version of Shortest Route includes some starter-code provided by Utah State University's computer science department to which I give credit. Major functionality/displayment code is my own work. 
 
 ## Running Shortest Route
 
@@ -22,4 +22,4 @@ Run main.cpp using Algernoon.cpp and Algernoon.h with prefered C++ IDE. The maze
 
 ## Acknowledgments
 
-Again, some starter-code was provided by Utah State Universities CS department for the purpose of this assignment. 
+Again, some starter-code was provided by Utah State University's CS department for the purpose of this assignment. 
